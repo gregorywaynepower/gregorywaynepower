@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Rust and bayesian statistics.
 - 👯 I’m looking to collaborate on OpenStreetMap projects.
 - 🤔 I’m looking for help with learning Actions/Workflows on Github.
-- 💬 Ask me about conda and Python.
+- 💬 Ask me about reproducibility and Python.
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: The hagfish is the only animal that has a skull, but no spine.
